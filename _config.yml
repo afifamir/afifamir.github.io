@@ -1,4 +1,4 @@
-theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 
 title: 'Afif Amir: Data Science Portfolio
 description: A page to compile and showcase Afif's projects with regards to Data Science domain
